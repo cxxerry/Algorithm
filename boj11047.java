@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 
@@ -24,7 +23,6 @@ public class boj11047 {
                 K = K % coin[i] ;
             }
         }
-
         System.out.println(count);
     }
 }
